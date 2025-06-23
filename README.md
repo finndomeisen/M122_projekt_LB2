@@ -18,7 +18,6 @@ Anforderungsdefinition mit KI-Einsatz (Meilenstein A)
 | **(Skizze / Mockup)**: | [Einfügen eines Bildes, das Text, Screenshot, Diagramm, Design enthält. Automatisch generierte Beschreibung](https://gitlab.com/ch-tbz-it/Stud/m122/-/tree/main/10_Projekte_LB2/x_gitressourcen/Systemdesign.png) → [**Copy**](https://gitlab.com/ch-tbz-it/Stud/m122/-/blob/main/10_Projekte_LB2/m122-Projekte.rtb) **board and edit.** *Wir werden mit der Vorlage vom Miro arbeiten.* |
 | **Erkenntnisse aus der Machbarkeitsabklärung in Bash (oder Python):** | *Noch keine Tests durchgeführt. Die ersten Funktionen werden in den nächsten Tagen mit Python evaluiert.* |
 
-| **Log-Datei und Manipulationsschutz:** | - *Alle Abläufe, inklusive erfolgreicher Uploads und Fehler, werden automatisch in einer Log-Datei dokumentiert.* - *Die Log-Datei enthält Zeitstempel, Pfadangaben, Statusmeldungen und etwaige Fehlermeldungen.* - *Fehler werden separat gekennzeichnet, um eine gezielte Fehleranalyse zu ermöglichen.* - *Zur Sicherheit wird bei jedem Start des Skripts die Integrität der Konfigurationsdateien geprüft (z. B. über Hashwerte), um Manipulationen zu erkennen.* - *Unerlaubte Änderungen an kritischen Parametern (wie Token oder Upload-Zeiten) werden erkannt und gemeldet.* |
 
 
 
