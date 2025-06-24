@@ -6,7 +6,7 @@ from hash_check import is_file_unchanged
 from logger import setup_logger
 
 CONFIG_PATH = "config.cfg"
-EXPECTED_HASH = "DEIN_ERWARTETER_HASHWERT"  # später einfügen
+EXPECTED_HASH = "034b89553d776fa5ba0a27dad035008bfb3e6c644b007193e173c476768c15e1"  # später einfügen
 
 def main():
     setup_logger()
