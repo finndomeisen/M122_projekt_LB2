@@ -1,2 +1,40 @@
 
 2025-06-24 11:10:15,107 - ERROR - \u274c Konfigurationsdatei wurde verändert!
+2025-06-24 11:58:09,421 - ERROR - \u274c Konfigurationsdatei wurde verändert!
+2025-06-30 15:00:01,084 - INFO - \u2705 Upload erfolgreich durchgeführt.
+2025-06-30 15:18:43,545 - INFO - \u23f3 Warte auf Upload-Zeit: 15:20
+2025-06-30 15:19:33,623 - INFO - \u23f3 Warte auf Upload-Zeit: 15:20
+2025-06-30 15:20:03,627 - ERROR - \u274c Fehler beim Upload: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-07-01 10:59:03,665 - INFO - \u23f3 Warte auf Upload-Zeit: 15:20
+2025-07-01 10:59:54,763 - INFO - \u23f3 Warte auf Upload-Zeit: 11:00
+2025-07-01 11:00:24,810 - ERROR - \u274c Fehler beim Upload: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-07-01 11:06:01,932 - INFO - \u23f3 Warte auf Upload-Zeit: 11:06
+2025-07-01 11:06:41,042 - ERROR - \u274c Fehler beim Upload: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type="file"]"}
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7a0946f95+76917]
+	GetHandleVerifier [0x0x7ff7a0946ff0+77008]
+	(No symbol) [0x0x7ff7a06f9dea]
+	(No symbol) [0x0x7ff7a0750256]
+	(No symbol) [0x0x7ff7a075050c]
+	(No symbol) [0x0x7ff7a07a3887]
+	(No symbol) [0x0x7ff7a07784af]
+	(No symbol) [0x0x7ff7a07a065c]
+	(No symbol) [0x0x7ff7a0778243]
+	(No symbol) [0x0x7ff7a0741431]
+	(No symbol) [0x0x7ff7a07421c3]
+	GetHandleVerifier [0x0x7ff7a0c1d2cd+3051437]
+	GetHandleVerifier [0x0x7ff7a0c17923+3028483]
+	GetHandleVerifier [0x0x7ff7a0c358bd+3151261]
+	GetHandleVerifier [0x0x7ff7a096185e+185662]
+	GetHandleVerifier [0x0x7ff7a096971f+218111]
+	GetHandleVerifier [0x0x7ff7a094fb14+112628]
+	GetHandleVerifier [0x0x7ff7a094fcc9+113065]
+	GetHandleVerifier [0x0x7ff7a0936c98+10616]
+	BaseThreadInitThunk [0x0x7ffbaa13259d+29]
+	RtlUserThreadStart [0x0x7ffbab3eaf78+40]
+
+2025-07-01 11:48:51,628 - INFO - \u23f3 Warte auf Upload-Zeit: 11:06
+2025-07-01 11:49:31,916 - INFO - \u23f3 Warte auf Upload-Zeit: 11:50
